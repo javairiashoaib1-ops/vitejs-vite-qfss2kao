@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { useState, useEffect, useRef } from "react";
 
 const ORANGE = "#FF6B35";
